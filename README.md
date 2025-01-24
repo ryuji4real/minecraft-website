@@ -5,11 +5,17 @@ This repository provides a complete **website template** for your **Minecraft se
 # **✨ Features**
 
 ✅ **About** – Present your server’s theme and story
+
 ✅ **Staff Team** – Showcase your admins, moderators, and developers
+
 ✅ **Contact** – Let players reach out easily
+
 ✅ **Rules** – Ensure a fair and friendly community
+
 ✅ **FAQ** – Answer common questions
+
 ✅ **Why Vote?** – Encourage players to vote for your server
+
 
 # 🚀 Installation
 
@@ -18,7 +24,9 @@ This repository provides a complete **website template** for your **Minecraft se
     git clone https://github.com/your-repo.git
 
 2️⃣ Edit the ``script.js`` file to update staff names (instructions are provided inside)
+
 3️⃣ Modify the HTML files to match your server’s identity
+
 4️⃣ Open ``index.html`` in your browser, and your website is ready! 🎉
 
 # 🌐 Hosting the Website
